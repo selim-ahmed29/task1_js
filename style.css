@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+html{
+    background-image: url("html-color-codes-color-tutorials-hero.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+.container form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 15%;
+}
+.container form label{
+    margin-bottom: 30px;
+    font-weight: 700;
+    font-size: 38px;
+    color: white;
+}
+.container form input{
+    border-radius: 25px;
+    width: 29%;
+    height: 50px;
+
+}
+.container button{    
+    width: 14%;
+    margin: auto;
+    margin-block: 20px;
+    border-radius: 25px;
+    height: 43px;
+    font-size: 21px;
+    font-weight: 700;}
+
+ul{
+    color: white;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+
